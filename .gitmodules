@@ -1,0 +1,12 @@
+[submodule "BGsystem3-frontend"]
+	path = BGsystem3-frontend
+	url = https://github.com/ShierCoding/BGsystem3-frontend
+[submodule "BGsystem3-server"]
+	path = BGsystem3-server
+	url = https://github.com/ShierCoding/BGsystem3-server.git
+[submodule "BGsystem3-timer"]
+	path = BGsystem3-timer
+	url = https://github.com/ShierCoding/BGsystem3-timer
+[submodule "BGsystem3-configure"]
+	path = BGsystem3-configure
+	url = https://github.com/ShierCoding/BGsystem3-configure
