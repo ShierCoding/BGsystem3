@@ -3,6 +3,7 @@ import zipfile
 import os
 import utils
 import hashlib
+import json
 
 
 # 压缩
@@ -23,7 +24,7 @@ def compress():
                 print(f"文件 {file} 未找到")
 
 
-version = "0.2.3-alpha"
+version = json.load(open(utils.ToAbsolutePath("../package.json")))["version"]
 
 
 def main():
