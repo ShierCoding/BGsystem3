@@ -38,7 +38,7 @@ Background System 3：一个让教室内智慧大屏更有用的工具。
 
 ### 后端安装
 
-后端推荐使用 [Sucrose](https://github.com/Taiizor/Sucrose)（推荐版本：[Sucrose_Bundle_.NET_8.0_x64_24.3.30.0.exe](https://github.com/Taiizor/Sucrose/releases/latest/download/Sucrose_Bundle_.NET_8.0_x64_24.3.30.0.exe)）
+后端推荐使用 [Sucrose](https://github.com/Taiizor/Sucrose)（推荐版本：[Sucrose_Bundle_.NET_8.0_x64_24.8.8.0.exe](https://github.com/Taiizor/Sucrose/releases/download/v24.8.8.0/Sucrose_Bundle_.NET_8.0_x64_24.8.8.0.exe)）
 
 安装前需下载依赖：
 

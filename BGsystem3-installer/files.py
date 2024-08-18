@@ -20,4 +20,5 @@ target_files = [
     "../BGsystem3-guard.exe",
     "../target.bat",
     "../better-timer.exe",
+    "../ffmpeg.exe",
 ]

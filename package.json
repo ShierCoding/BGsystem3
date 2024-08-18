@@ -1,6 +1,6 @@
 {
   "name": "bgsystem3",
-  "version": "3.0.171-alpha",
+  "version": "3.1.0-alpha",
   "description": "",
   "main": "index.js",
   "scripts": {
